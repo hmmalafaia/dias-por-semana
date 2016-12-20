@@ -12,3 +12,5 @@ Exemplo: Entre 04/01/2016 e 11/01/2016 há:
 01 - Sexta-Feira
 01 - Sábado
 01 - Domingo
+
+see me at: https://hmmalafaia.github.io/dias-por-semana/index.html
